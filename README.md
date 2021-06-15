@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Icon library Angular-Fontawesome
+To get more help on the [Angular-Fontawesome] (https://www.npmjs.com/package/@fortawesome/angular-fontawesome).
+If you need to add any property to the icon log in [Fontawesome-properties] (https://github.com/FortAwesome/angular-fontawesome/blob/HEAD/docs/usage/features.md).
