@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { faCoffee, faUser } from '@fortawesome/free-solid-svg-icons';
+import { faCoffee, faUser, faBars, faSearch } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-root',
@@ -10,5 +10,7 @@ export class AppComponent {
   title = 'padel-search';
 
   faCoffee = faCoffee;
-  faUser = faUser;
+  userIcon = faUser;
+  menuIcon = faBars;
+  searchIcon = faSearch;
 }
